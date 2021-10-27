@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.07,
+			"portrait": "winnie",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "HEY! HELLO My FRIEEEEEEEEND, do you have any honey?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "winnie",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "YEEEEEEEEES, YOOOOU HAAAAVE HONEY?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "rap battle me now winnie "
+		},
+		{
+			"speed": 0.06,
+			"portrait": "winnie",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "OOOOOOOOOKKKKKKKKK"
+		}
+	]
+}

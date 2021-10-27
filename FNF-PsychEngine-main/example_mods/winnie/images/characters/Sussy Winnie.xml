@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sussy Winnie.png">
+<SubTexture name="Sussy Winnie idle0000" x="0" y="0" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie idle0001" x="1204" y="0" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie idle0002" x="2408" y="0" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie idle0003" x="3612" y="0" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie idle0004" x="0" y="1504" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie idle0005" x="1204" y="1504" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie idle0006" x="2408" y="1504" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie idle0007" x="3612" y="1504" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie idle0008" x="0" y="3008" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie idle0009" x="1204" y="3008" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie idle0010" x="2408" y="3008" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie down0000" x="3612" y="3008" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie down0001" x="0" y="4512" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie down0002" x="1204" y="4512" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie down0003" x="2408" y="4512" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie down0004" x="3612" y="4512" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie down0005" x="0" y="6016" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie left0000" x="1204" y="6016" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie left0001" x="2408" y="6016" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie left0002" x="3612" y="6016" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie left0003" x="0" y="7520" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie left0004" x="1204" y="7520" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie left0005" x="2408" y="7520" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie right0000" x="3612" y="7520" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie right0001" x="0" y="9024" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie right0002" x="1204" y="9024" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie right0003" x="2408" y="9024" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie right0004" x="3612" y="9024" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie right0005" x="0" y="10528" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie up0000" x="1204" y="10528" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie up0001" x="2408" y="10528" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie up0002" x="3612" y="10528" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie up0003" x="0" y="12032" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie up0004" x="1204" y="12032" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+<SubTexture name="Sussy Winnie up0005" x="2408" y="12032" width="1204" height="1504" frameX="0" frameY="0" frameWidth="1204" frameHeight="1504" />
+</TextureAtlas>

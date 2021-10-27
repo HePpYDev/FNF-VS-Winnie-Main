@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				80,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "WhatYouKnowAboutRollingDownInTheDeep"
+		},
+		{
+			"offsets": [
+				40,
+				70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Sussy Winnie idle"
+		},
+		{
+			"offsets": [
+				40,
+				70
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "Sussy Winnie idle"
+		},
+		{
+			"offsets": [
+				111,
+				60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "Sussy Winnie left"
+		},
+		{
+			"offsets": [
+				111,
+				60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Sussy Winnie left"
+		},
+		{
+			"offsets": [
+				0,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Sussy Winnie down"
+		},
+		{
+			"offsets": [
+				194,
+				57
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Sussy Winnie up"
+		},
+		{
+			"offsets": [
+				-40,
+				57
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Sussy Winnie right"
+		},
+		{
+			"offsets": [
+				-40,
+				57
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "Sussy Winnie right"
+		},
+		{
+			"offsets": [
+				194,
+				57
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "Sussy Winnie up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sussy Winnie",
+	"position": [
+		-300,
+		-280
+	],
+	"healthicon": "winnie",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		240,
+		80
+	],
+	"camera_position": [
+		-100,
+		-130
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

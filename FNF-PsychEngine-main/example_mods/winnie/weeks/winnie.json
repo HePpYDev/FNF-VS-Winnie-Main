@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Extreme Winnie",
+			"winnie",
+			[
+				255,
+				215,
+				53
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "sus",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Winnie is here!1!",
+	"weekName": "Winnie Sus",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
